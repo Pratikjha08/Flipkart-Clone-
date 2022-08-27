@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+.flex-all-center{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchbar .btn{
+    padding: 1px 8px;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.searchbar .btn:hover{
+    color: aqua;
+    border: 2px solid antiquewhite;
+}
+.my-2{
+    margin: 20px 0;
+}
+.my-1{
+    margin: 10px;
+}
+.text-center{
+    text-align: center;
+}
